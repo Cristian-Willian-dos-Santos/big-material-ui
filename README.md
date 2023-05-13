@@ -12,9 +12,9 @@
 
 Inicialmente, comecei definindo alguns requisitos para posteriormente delimitar o desenvolvimento de um mockup, conforme descrevo a seguir:
 
-Conjunto harmônico, que propiciem uma experiência visual agradável ao observar diferentes ícones em conjunto.
-Otimização de espaços, que ao observá-los em maiores agrupamentos apresentem o visual mais organizado possível.
-Visual minimalista, moderno e intuitivo.
+* Conjunto harmônico, que propiciem uma experiência visual agradável ao observar diferentes ícones em conjunto.
+* Otimização de espaços, que ao observá-los em maiores agrupamentos apresentem o visual mais organizado possível.
+* Visual minimalista, moderno e intuitivo.
 
 A partir destas definições, iniciei o processo de formulação de ideias e esboços, para atingir estes objetivos escolhi um padrão de UI Design utilizado em diversos sistemas atuais, inclusive gostaria de citar alguns exemplos aqui, que embora trate-se se soluções comerciais, fazem bem aquilo que se propõem, entre estes estão OneUI da Samsung, MIUI da Xiaomi, além das interfaces presentes tanto no Mac OS quanto no IOS, mas a razão por estar listando estes entre tantos outros sistemas, é o fato de terem algo em comum, ambos utilizam um conceito de UI Design onde todos os ícones são moldados com o mesmo formato.  
 
