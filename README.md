@@ -28,5 +28,4 @@ Após apresentação inicial através do fórum, fui fortemente incentivado a pr
 <h6 align="center">Figura 3. Disponível em: https://t.me/BigLinuxCommunity/5653/5720. Acesso em 13 de maio de 2023.<h6>
 
   
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Cristian Willian dos Santos</sub>](https://github.com/Cristian-Willian-dos-Santos)
-| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/79232384?v=4" width=115><br><sub>Cristian Willian dos Santos</sub>](https://github.com/Cristian-Willian-dos-Santos)
