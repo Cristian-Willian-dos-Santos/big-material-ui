@@ -27,7 +27,7 @@ Após apresentação inicial através do fórum, fui fortemente incentivado a pr
 <img src="https://i.imgur.com/axp6XtK.jpeg" heigth="720" width="1280">
 <h6 align="center">Figura 3. Disponível em: https://t.me/BigLinuxCommunity/5653/5720. Acesso em 13 de maio de 2023.<h6>
 <br>
- <br>
-  #Autores
+<br>
+#Autores
 <br>  
 [<img src="https://avatars.githubusercontent.com/u/79232384?v=4" width=115><br><sub>Cristian Willian dos Santos</sub>](https://github.com/Cristian-Willian-dos-Santos)
