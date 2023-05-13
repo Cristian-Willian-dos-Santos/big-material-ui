@@ -1,5 +1,5 @@
 <h1 align="center">Big Icons</h1>
-<h2>Conjunto de ícones pensados para apresentar um conceito de UI Design consistente e com forte enfase em bom acabamento, minimalismo  e melhor distribuição de espaços na tela.<h2>
+<h2 align="justify">Conjunto de ícones pensados para apresentar um conceito de UI Design consistente e com forte enfase em bom acabamento, minimalismo  e melhor distribuição de espaços na tela.<h2>
 
 <h4 align="justify" >Inicialmente apresentei o conceito de Ui Design no Fórum da Distribuição , "Algo que pude perceber foi a atenção que algumas distros tem em relação a UI Design e o quão expressivo é o impacto disto em suas Identidades, a partir disso passei a olhar de forma mais minuciosa para o Big e observei que faz uso do pacote de ícones Fluent, apresentando um conjunto amplo de ícones. No entanto, por se tratar de um conjunto genérico não transmite uma Identidade que destaque o Big de outras distribuições, observe (Figuras 1 e 2) que se não fosse pelo ícone do painel de controle, menu iniciar e wallpaper, um usuário comum seria incapaz de diferencia-los.<h4>
 
@@ -26,9 +26,3 @@ Após apresentação inicial através do fórum, fui fortemente incentivado a pr
 
 <img src="https://i.imgur.com/axp6XtK.jpeg" heigth="720" width="1280">
 <h6 align="center">Figura 3. Disponível em: https://t.me/BigLinuxCommunity/5653/5720. Acesso em 13 de maio de 2023.<h6>
-<br>
-<br>
-#Autores
-<br>  
-  
-[<img src="https://avatars.githubusercontent.com/u/79232384?v=4" width=125><br><sub>Cristian Willian dos Santos</sub>](https://github.com/Cristian-Willian-dos-Santos)
