@@ -31,4 +31,4 @@ Após apresentação inicial através do fórum, fui fortemente incentivado a pr
 #Autores
 <br>  
   
-[<img src="https://avatars.githubusercontent.com/u/79232384?v=4" width=115><br><sub aling="center">Cristian Willian dos Santos</sub>](https://github.com/Cristian-Willian-dos-Santos)
+[<img src="https://avatars.githubusercontent.com/u/79232384?v=4" width=125><br><sub>Cristian Willian dos Santos</sub>](https://github.com/Cristian-Willian-dos-Santos)
