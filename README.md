@@ -4,4 +4,6 @@
 <h4 align="justify" >Algo que pude perceber foi a atenção que algumas distros tem em relação a UI Design e o quão expressivo é o impacto disto em suas Identidades, a partir disso passei a olhar de forma mais minuciosa para o Big e observei que faz uso do pacote de ícones Fluent, apresentando um conjunto amplo de ícones. No entanto, por se tratar de um conjunto genérico não transmite uma Identidade que destaque o Big de outras distribuições, observe (Figuras 1 e 2) que se não fosse pelo ícone do painel de controle, menu iniciar e wallpaper, um usuário comum seria incapaz de diferencia-los.<h4>
 
 <img src="https://i.imgur.com/VyIU8NI.png" heigth="720" width="1280">
-<h4>Figura 1. Disponível em: <www.biglinux.com.br>. Acesso em 3 de maio de 2023.<h4>
+<h6 align="center">Figura 1. Disponível em: <www.biglinux.com.br>. Acesso em 3 de maio de 2023.<h6>
+<img src="https://i.imgur.com/VyIU8NI.png" heigth="720" width="1280">
+<h6 align="center">Figura 2. Disponível em: <store.kde.org/p/1499884>. Acesso em 3 de maio de 2023.<h6>
