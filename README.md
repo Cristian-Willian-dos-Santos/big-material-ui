@@ -5,5 +5,5 @@
 
 <img src="https://i.imgur.com/VyIU8NI.png" heigth="720" width="1280">
 <h6 align="center">Figura 1. Disponível em: <www.biglinux.com.br>. Acesso em 3 de maio de 2023.<h6>
-<img src="https://i.imgur.com/VyIU8NI.png" heigth="720" width="1280">
+<img src="https://i.imgur.com/KVPF5Za.png" heigth="720" width="1280">
 <h6 align="center">Figura 2. Disponível em: <store.kde.org/p/1499884>. Acesso em 3 de maio de 2023.<h6>
