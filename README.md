@@ -28,4 +28,4 @@ Após apresentação inicial através do fórum, fui fortemente incentivado a pr
 <h6 align="center">Figura 3. Disponível em: https://t.me/BigLinuxCommunity/5653/5720. Acesso em 13 de maio de 2023.<h6>
 
   
-  [BigLinux](https://github.com/biglinux)
+  
