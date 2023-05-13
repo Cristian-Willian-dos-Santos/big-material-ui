@@ -24,7 +24,7 @@ Sendo assim, como Formato Padrão de ícones para  arquivos, visando melhorar a 
 
 Seguindo para programas / aplicativos, os quais eu normalmente executo a partir do lançador de aplicativos (menu iniciar) ou do gerenciador de tarefas (barra de tarefas), linhas completamente retas não me pareceram um bom caminho, talvez pelo espaço vertical reduzido do gerenciador de tarefas ou pela proximidade com o ícone redondo do lançador de aplicativos, porém, ícones completamente redondos acabavam criando um contraste considerável com os presentes na área de trabalho ou gerenciador de arquivos, pois para os mesmos, como mencionado anteriormente, optei por linhas retas, portanto, acabei optando por um formato híbrido." Disponível em https://forum.biglinux.com.br/d/2953-big-icons.
   
-Após apresentação inicial através do fórum, fui fortemente incentivado a prosseguir com o projeto. Neste ponto, comecei elaborar novos icones utilizando a paleta de cores do BigLinux (Figura 3) desenvolvida por @ruscher, com quem mantenho constantes diálogos desde o princípio e tem sido de suma importância no processo de colaboração criativa.<h4>
+Após apresentação inicial através do fórum, fui fortemente incentivado a prosseguir com o projeto. Neste ponto, comecei elaborar novos icones utilizando a paleta de cores do <a href="https://www.biglinux.com.br/">Big</a> (Figura 3) desenvolvida por <a href="https://github.com/ruscher">Rafael Ruscher</a>, com quem mantenho constantes diálogos desde o princípio e tem sido de suma importância no processo de colaboração criativa.<h4>
 
 <img src="https://i.imgur.com/axp6XtK.jpeg" heigth="720" width="1280">
 <h6 align="center">Figura 3. Disponível em: https://t.me/BigLinuxCommunity/5653/5720. Acesso em 13 de maio de 2023.<h6>
