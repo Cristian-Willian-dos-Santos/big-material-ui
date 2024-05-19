@@ -1,13 +1,10 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#dedede;
-      }</style>
- </defs>
- <g class="ColorScheme-Text" fill="currentColor">
-  <circle cx="6" cy="11" r="1" class="ColorScheme-Text" fill="currentColor"/>
-  <circle cx="11" cy="11" r="1" class="ColorScheme-Text" fill="currentColor"/>
-  <circle cx="16" cy="11" r="1" class="ColorScheme-Text" fill="currentColor"/>
-  <path d="m10.99 2a9 9 0 0 0-8.9902 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9 9 9 0 0 0-0.009766 0zm0.009766 1a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8z" class="ColorScheme-Text" fill="currentColor"/>
- </g>
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="22" height="22" rx="2" fill="#A4A4A4" fill-opacity="0.01"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.2 4.2C13.2 5.41503 12.215 6.4 11 6.4C9.78497 6.4 8.8 5.41503 8.8 4.2C8.8 2.98497 9.78497 2 11 2C12.215 2 13.2 2.98497 13.2 4.2ZM13.2 11C13.2 12.215 12.215 13.2 11 13.2C9.78497 13.2 8.8 12.215 8.8 11C8.8 9.78497 9.78497 8.8 11 8.8C12.215 8.8 13.2 9.78497 13.2 11ZM11 20C12.215 20 13.2 19.015 13.2 17.8C13.2 16.585 12.215 15.6 11 15.6C9.78497 15.6 8.8 16.585 8.8 17.8C8.8 19.015 9.78497 20 11 20Z" fill="url(#paint0_linear_26_2)"/>
+<defs>
+<linearGradient id="paint0_linear_26_2" x1="11" y1="18.3333" x2="11" y2="-0.458334" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BBBBBB"/>
+<stop offset="1" stop-color="#EEEEEE"/>
+</linearGradient>
+</defs>
 </svg>

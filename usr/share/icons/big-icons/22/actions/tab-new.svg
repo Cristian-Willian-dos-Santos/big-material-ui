@@ -1,9 +1,10 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#dedede;
-      }</style>
- </defs>
- <path class="ColorScheme-Text" d="m17.5 12c-1.933 0-3.5 1.567-3.5 3.5s1.567 3.5 3.5 3.5 3.5-1.567 3.5-3.5-1.567-3.5-3.5-3.5zm-0.5 1h1v2h2v1h-2v2h-1v-2h-2v-1h2v-2z" fill="currentColor"/>
- <path class="ColorScheme-Text" d="m5 4c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h8v-1h-8c-1.108 0-2-0.892-2-2v-7h8v1h8v2h1v-4c0-1.662-1.338-3-3-3zm0 1h12c1.108 0 2 0.892 2 2h-16c0-1.108 0.892-2 2-2z" fill="currentColor"/>
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="22" height="22" fill="white" fill-opacity="0.01"/>
+<path d="M9.71429 12.9045C9.71429 12.5627 9.43726 12.2857 9.09554 12.2857H3.2375C2.55405 12.2857 2 11.7317 2 11.0482V10.9518C2 10.2683 2.55405 9.71429 3.2375 9.71429H9.09554C9.43726 9.71429 9.71429 9.43726 9.71429 9.09554V3.2375C9.71429 2.55405 10.2683 2 10.9518 2H11.0482C11.7317 2 12.2857 2.55405 12.2857 3.2375V9.09554C12.2857 9.43726 12.5627 9.71429 12.9045 9.71429H18.7625C19.446 9.71429 20 10.2683 20 10.9518V11.0482C20 11.7317 19.446 12.2857 18.7625 12.2857H12.9045C12.5627 12.2857 12.2857 12.5627 12.2857 12.9045V18.7625C12.2857 19.446 11.7317 20 11.0482 20H10.9518C10.2683 20 9.71429 19.446 9.71429 18.7625V12.9045Z" fill="url(#paint0_linear_21_8)"/>
+<defs>
+<linearGradient id="paint0_linear_21_8" x1="11" y1="17" x2="11" y2="1.625" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BBBBBB"/>
+<stop offset="1" stop-color="#EEEEEE"/>
+</linearGradient>
+</defs>
 </svg>

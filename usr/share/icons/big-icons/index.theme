@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=BigOS
-Comment=Flat and colorful personality icon theme
+Name=BigLinux Classic Material Icons Dark (Teste)
+Comment=BigLinux Classic Material Icons Dark: teste de ícones inspirados no tema clássico(fluent), utilizado anteriormente no biglinux, com o design atualizado dentro dos padrões do BigLinux Material Icons. Ainda, busca atualizar o design dos ícones de ações e dispositivos, adaptando-os ao conceito de Material Design visando permitir maior conscistência visual.
 Inherits=breeze-dark,breeze,hicolor
 Example=folder
 

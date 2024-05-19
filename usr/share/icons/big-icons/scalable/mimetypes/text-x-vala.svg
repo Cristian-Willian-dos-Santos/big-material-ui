@@ -1,16 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
- <g fill-rule="evenodd">
-  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
- <g transform="matrix(.27214 0 0 .27214 .030217 -.2419)" color="#000000" color-rendering="auto" fill="#7839b7" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal">
-  <path d="m28.138 45.125-0.56396-23.909q-2.4609 0.92285-3.8452 2.8882-1.3672 1.9653-1.3672 4.8877 0 0.6665 0.06836 1.0938 0.08545 0.41016 0.1709 0.6665 0.08545 0.23926 0.15381 0.37598 0.08545 0.13672 0.08545 0.23926-0.90576 0-1.6064-0.1709-0.70068-0.18799-1.1792-0.58105-0.46143-0.39307-0.71777-1.0425-0.23926-0.64941-0.23926-1.6064 0-1.1621 0.49561-2.29 0.5127-1.1279 1.3843-2.1362 0.88867-1.0083 2.0679-1.8628 1.1963-0.85449 2.5464-1.4697 1.3672-0.63232 2.8369-0.97412 1.4868-0.35889 2.9565-0.35889 0.39307 0 0.71777 0.01709 0.3418 0.01709 0.68359 0.05127l0.30762 21.533 7.3657-21.431h2.4438l-9.7241 26.079z" color="#000000" color-rendering="auto" fill="#7839b7" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width=".24306" style="isolation:auto;mix-blend-mode:normal"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#7839B7" d="M9.696 20 9.341 5.427c-1.034.375-1.841.962-2.423 1.76-.574.799-.861 1.792-.861 2.98 0 .27.014.493.043.666.036.167.072.302.107.406.036.098.069.174.097.23a.28.28 0 0 1 .054.146c-.38 0-.718-.035-1.012-.105a1.974 1.974 0 0 1-.743-.354 1.575 1.575 0 0 1-.452-.635C4.05 10.257 4 9.93 4 9.54c0-.472.104-.937.312-1.395.216-.459.506-.893.873-1.302.373-.41.807-.788 1.302-1.136a9.693 9.693 0 0 1 1.605-.896 9.439 9.439 0 0 1 1.787-.593 8.17 8.17 0 0 1 2.316-.209c.143.007.287.018.43.032l.194 13.124L17.46 4.104H19L12.873 20H9.696Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>

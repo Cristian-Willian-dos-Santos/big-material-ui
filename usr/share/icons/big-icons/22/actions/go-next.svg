@@ -1,14 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#dedede;
-      }
-      </style>
-  </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-	d="m7.707031 3l-.707031.707031 6.125 6.125 1.167969 1.167969-1.167969 1.167969-6.125 6.125.707031.707031 6.125-6.125 1.875-1.875-1.875-1.875-6.125-6.125"
-    class="ColorScheme-Text"
-    />  
+<svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="22.5" y="22.5" width="22" height="22" transform="rotate(180 22.5 22.5)" fill="#A4A4A4" fill-opacity="0.01"/>
+<path d="M15.7895 10.375C15.9398 10.375 16.0151 10.1932 15.9088 10.0869L10.6192 4.79731C10.2213 4.39943 10.2242 3.75346 10.6255 3.35911L10.7841 3.20333C11.1805 2.81389 11.8167 2.8167 12.2096 3.20964L20.142 11.142C20.3397 11.3397 20.3397 11.6603 20.142 11.858L12.2096 19.7904C11.8167 20.1833 11.1805 20.1861 10.7841 19.7967L10.6255 19.6409C10.2242 19.2465 10.2213 18.6006 10.6192 18.2027L15.9088 12.9131C16.0151 12.8068 15.9398 12.625 15.7895 12.625H3.5125C2.95331 12.625 2.5 12.1717 2.5 11.6125V11.3875C2.5 10.8283 2.95331 10.375 3.5125 10.375H15.7895Z" fill="url(#paint0_linear_17_39)"/>
+<defs>
+<linearGradient id="paint0_linear_17_39" x1="11.5" y1="5.5" x2="11.5" y2="20.875" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BBBBBB"/>
+<stop offset="1" stop-color="#EEEEEE"/>
+</linearGradient>
+</defs>
 </svg>
