@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" viewBox="0 0 16 16">
+<defs id="defs8">
+<linearGradient id="3" x1="424.57" x2="408.57" y1="523.8" y2="539.8" gradientUnits="userSpaceOnUse">
+<stop id="stop3346" offset="0" stop-color="#c1cc00"/>
+<stop id="stop3348" offset=".312" stop-color="#dfcd00"/>
+<stop id="stop3350" offset=".562" stop-color="#f0cc00"/>
+<stop id="stop3352" offset=".75" stop-color="#fd8c08"/>
+<stop id="stop3354" offset="1" stop-color="#f25c13"/>
+</linearGradient>
+<linearGradient id="0" x1="8" x2="24" y1="24" y2="8" gradientUnits="userSpaceOnUse">
+<stop id="stop3357" offset="0" stop-color="#e81877"/>
+<stop id="stop3359" offset=".312" stop-color="#dd1d8c"/>
+<stop id="stop3361" offset=".562" stop-color="#6d57b1"/>
+<stop id="stop3363" offset=".75" stop-color="#2a78c1"/>
+<stop id="stop3365" offset="1" stop-color="#018dcb"/>
+</linearGradient>
+<linearGradient id="2" x1="424.57" x2="408.57" y1="523.8" y2="507.8" gradientUnits="userSpaceOnUse">
+<stop id="stop3368" offset="0" stop-color="#bec900"/>
+<stop id="stop3370" offset=".312" stop-color="#9ec80a"/>
+<stop id="stop3372" offset=".562" stop-color="#71b93d"/>
+<stop id="stop3374" offset=".75" stop-color="#35a48f"/>
+<stop id="stop3376" offset="1" stop-color="#018fca"/>
+</linearGradient>
+<linearGradient id="1" x1="392.57" x2="408.57" y1="523.8" y2="539.8" gradientUnits="userSpaceOnUse">
+<stop id="stop3379" offset="0" stop-color="#e51561"/>
+<stop id="stop3381" offset=".312" stop-color="#e4156c"/>
+<stop id="stop3383" offset=".562" stop-color="#e71e2c"/>
+<stop id="stop3385" offset=".75" stop-color="#e8301e"/>
+<stop id="stop3387" offset="1" stop-color="#e6320e"/>
+</linearGradient>
+<linearGradient xlink:href="#2" id="linearGradient3480" x1="424.57" x2="408.57" y1="523.8" y2="507.8" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#1" id="linearGradient3484" x1="392.57" x2="408.57" y1="523.8" y2="539.8" gradientUnits="userSpaceOnUse"/>
+<path id="H" fill="url(#0)" d="M24 8C15.136 8 8 15.136 8 24h16z"/>
+<path id="I" fill="url(#3)" d="M408.57 539.8c8.864 0 16-7.136 16-16h-16z"/>
+<path id="J" fill="url(#1)" d="M408.57 539.8c-8.864 0-16-7.136-16-16h16z"/>
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Text{color:#fcfcfc}
+</style>
+</defs>
+<g id="g3389" transform="matrix(.78152 0 0 .78147 -.597 -806.8)">
+<g id="g3391" transform="rotate(15 -3071.937 46.542)scale(.4)">
+<use xlink:href="#H" id="use3393" width="100%" height="100%" clip-path="url(#5)" transform="translate(384.57 499.8)"/>
+<use xlink:href="#J" id="use3395" width="100%" height="100%" clip-path="url(#6)"/>
+<path id="path3397" fill="url(#linearGradient3480)" d="M408.57 507.8c8.864 0 16 7.136 16 16h-16z" clip-path="url(#7)"/>
+<use xlink:href="#I" id="use3399" width="100%" height="100%" clip-path="url(#8)"/>
+</g>
+<g id="g3401" opacity=".7" transform="matrix(.4 0 0 .4 -152.43 831.84)">
+<use xlink:href="#H" id="use3403" width="100%" height="100%" clip-path="url(#9)" filter="url(#4)" transform="translate(384.57 499.8)"/>
+<use xlink:href="#J" id="use3405" width="100%" height="100%" clip-path="url(#A)" filter="url(#4)"/>
+<use xlink:href="#I" id="use3407" width="100%" height="100%" clip-path="url(#B)" filter="url(#4)"/>
+<path id="path3409" fill="url(#linearGradient3480)" d="M408.57 507.8c8.864 0 16 7.136 16 16h-16z" clip-path="url(#C)" filter="url(#4)"/>
+</g>
+<use xlink:href="#H" id="use3411" width="100%" height="100%" clip-path="url(#9)" opacity=".35" transform="rotate(45 -1235.176 527.183)scale(.4)"/>
+<path id="path3413" fill="url(#linearGradient3484)" d="M408.57 539.8c-8.864 0-16-7.136-16-16h16z" clip-path="url(#A)" opacity=".35" transform="rotate(45 -916.92 441.448)scale(.4)"/>
+<use xlink:href="#I" id="use3415" width="100%" height="100%" clip-path="url(#B)" opacity=".35" transform="rotate(45 -916.92 441.448)scale(.4)"/>
+<path id="path3417" fill="url(#linearGradient3480)" d="M408.57 507.8c8.864 0 16 7.136 16 16h-16z" clip-path="url(#C)" opacity=".35" transform="rotate(45 -916.92 441.448)scale(.4)"/>
+<g id="g3419" transform="rotate(75 -454.826 526.113)scale(.4)">
+<use xlink:href="#H" id="use3421" width="100%" height="100%" clip-path="url(#D)" opacity=".3" transform="translate(384.57 499.8)"/>
+<use xlink:href="#J" id="use3423" width="100%" height="100%" clip-path="url(#E)" opacity=".3"/>
+<use xlink:href="#I" id="use3425" width="100%" height="100%" clip-path="url(#F)" opacity=".3"/>
+<path id="path3427" fill="url(#linearGradient3480)" d="M408.57 507.8c8.864 0 16 7.136 16 16h-16z" clip-path="url(#G)" opacity=".3"/>
+</g>
+</g>
+<path d="m15 11.708-2.5 2.5-2.5-2.5.707-.707L12 12.294V7a4 4 0 0 0-8 0H3a5 5 0 1 1 10 0v5.294L14.293 11z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+</svg>

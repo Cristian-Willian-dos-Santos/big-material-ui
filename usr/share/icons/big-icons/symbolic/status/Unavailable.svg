@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.0">
+<g transform="translate(-118.54 -428.5)">
+<path fill="none" d="M118.54 428.5h32v32h-32z"/>
+<rect width="12" height="12" x="119.547" y="441.51" fill="#da4453" rx="6" ry="6" style="stroke-width:1.2"/>
+<path d="m123.247 444.5-.707.707 2.293 2.293-2.293 2.293.707.707 2.293-2.293 2.293 2.293.707-.707-2.293-2.293 2.293-2.293-.707-.707-2.293 2.293z" style="fill:#fff"/>
+</g>
+</svg>

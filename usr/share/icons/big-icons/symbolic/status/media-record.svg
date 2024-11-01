@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+<g transform="translate(-270.668 -33)">
+<rect width="32" height="32" x="270.668" y="33" rx="0" ry="0" style="fill:none"/>
+<path d="M286 35c-7.732 0-14 6.268-14 14s6.268 14 14 14 14-6.268 14-14-6.268-14-14-14m0 2c6.627 0 12 5.373 12 12s-5.373 12-12 12-12-5.373-12-12 5.373-12 12-12" style="fill:#da4453;fill-opacity:1"/>
+<circle cx="286" cy="49" r="9" style="fill:#da4453"/>
+</g>
+</svg>

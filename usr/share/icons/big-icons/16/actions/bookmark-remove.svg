@@ -1,12 +1,17 @@
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#dedede;
-      }
-      .ColorScheme-NegativeText {
-        color:#da4453;
-      }</style>
- </defs>
- <path class="ColorScheme-NegativeText" d="m9.71 9.03-0.707 0.707 1.793 1.793-1.793 1.793 0.707 0.707 1.793-1.793 1.793 1.793 0.707-0.707-1.793-1.793 1.793-1.793-0.707-0.707-1.793 1.793z" fill="currentColor"/>
- <path d="m5 0c-1.108 0-2 0.892-2 2v3 1 9l5-1.5938v-1l-4 1.1875v-5.8691-2.7246-3c0-0.554 0.446-1 1-1h6c0.554 0 1 0.446 1 1v3 2.7246 0.27539h1v-2-1-3c0-1.108-0.892-2-2-2h-6z" class="ColorScheme-Text" fill="currentColor"/>
+<svg width="20" height="24" viewBox="0 0 20 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.75 6H19.25C19.6642 6 20 5.66421 20 5.25V3.75C20 3.33579 19.6642 3 19.25 3H12.75C12.3358 3 12 3.33579 12 3.75V5.25C12 5.66421 12.3358 6 12.75 6Z" fill="url(#paint0_linear_52_52)"/>
+<defs>
+<style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ffffff; }</style>
+</defs>
+<rect width="24" height="24" fill="#A4A4A4" fill-opacity="0.01"/>
+<g opacity="0.90">
+<path class="ColorScheme-Text" fill-rule="evenodd" clip-rule="evenodd" d="M0 22.9968C0 23.7242 0.751759 24.2082 1.41386 23.9072L7.7584 21.0228C8.54729 20.6641 9.45272 20.6641 10.2416 21.0228L16.5861 23.9072C17.2482 24.2082 18 23.7242 18 22.9968V12.2852C18 11.3151 17.0514 10.656 16.0813 10.656C15.5015 10.656 14.8896 10.548 14.2454 10.3322C13.0307 9.92007 12.023 9.15442 11.2224 8.03525C10.4218 6.91609 10.0215 5.62078 10.0215 4.14936C10.0215 3.3848 10.1503 2.65418 10.408 1.95752C10.4427 1.86357 10.479 1.77043 10.5167 1.67809C10.8225 0.930435 10.3231 0 9.51534 0H3.7546C2.7289 0 1.84675 0.386993 1.10816 1.16097C0.369386 1.93475 0 2.88222 0 4.00335V22.9968Z" fill="currentColor"/>
+</g>
+<rect width="20" height="24" fill="#A4A4A4" fill-opacity="0.01"/>
+<defs>
+<linearGradient id="paint0_linear_52_52" x1="19.4286" y1="3.2238" x2="17.7535" y2="7.71447" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E7463E"/>
+<stop offset="1" stop-color="#C84D58"/>
+</linearGradient>
+</defs>
 </svg>

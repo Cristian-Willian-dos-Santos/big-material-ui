@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg89" width="32" height="32" version="1.1">
+<defs id="defs5">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Text{color:#fcfcfc}
+</style>
+</defs>
+<g id="touchpad_enabled">
+<path id="path7" fill="none" d="M0 0v32h32V0Z"/>
+<g id="g23" fill="currentColor" class="ColorScheme-Text">
+<g id="g19" transform="translate(-44 1)">
+<path id="path9" d="M74 17h-1v6c0 2.216-1.784 4-4 4h-3c-2.216 0-4-1.784-4-4v-6h-1v6c0 2.77 2.23 5 5 5h3c2.77 0 5-2.23 5-5z"/>
+<path id="path11" d="M64.5 9c-.831 0-1.5.669-1.5 1.5V17h1v-7h1v7h1v-6.5c0-.831-.669-1.5-1.5-1.5"/>
+<rect id="rect13" width="3" height="1" x="61" y="16" ry="0"/>
+<rect id="rect15" width="1" height="4" x="63" y="17" ry="0"/>
+<rect id="rect17" width="9" height="1" x="65" y="16" ry="0"/>
+</g>
+<path id="path21" d="M4 5c-.554 0-1 .446-1 1v16c0 .554.446 1 1 1h13v-1H4V6h22v11h1V6c0-.554-.446-1-1-1Z"/>
+</g>
+</g>
+</svg>

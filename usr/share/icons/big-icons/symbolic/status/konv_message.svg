@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg6" width="22" height="22" version="1.1">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-ButtonFocus{color:#3daee9}
+</style>
+<g id="konv_message" transform="translate(-326 -534.362)">
+<path id="rect3353" d="m341 538.362-12 3.418v6.164l1 .285v2.434l6 1.7v-2.425l5 1.424v-11.957zm4.03.428-.772.63a11 11 0 0 1 1.742 5.94 11 11 0 0 1-1.75 5.932l.783.642A12 12 0 0 0 347 545.36a12 12 0 0 0-1.97-6.57m-5.03.9v10.344l-10-2.848v-4.648zm2.69 1.016-.782.639A8 8 0 0 1 343 545.36a8 8 0 0 1-1.09 4.018l.781.64A9 9 0 0 0 344 545.36a9 9 0 0 0-1.31-4.654m-14.69 1.36-1 .284v5.024l1 .285v-5.594m3 6.449 4 1.138v1.426l-4-1.133z" class="ColorScheme-ButtonFocus" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.299435"/>
+<path id="rect4170" d="M326 534.362h22v22h-22z" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
+</g>
+</svg>
