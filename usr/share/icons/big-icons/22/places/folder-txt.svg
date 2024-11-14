@@ -1,14 +1,8 @@
 <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-    
 <defs>
 <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ffffff; }</style>
 </defs>
-
 <g opacity="0.90">
-<rect class="ColorScheme-Text" x="12.232" y="3.032" width="4.736" height="6.336" rx="0.8" fill="currentColor"/>
-<rect class="ColorScheme-Text" x="4.99998" y="3" width="5.6" height="2.4" rx="0.4" fill="currentColor"/>
-<rect class="ColorScheme-Text" x="4.99998" y="7" width="5.6" height="2.4" rx="0.4" fill="currentColor"/>
-<rect class="ColorScheme-Text" x="4.99998" y="11" width="12" height="3.2" rx="0.4" fill="currentColor"/>
-<rect class="ColorScheme-Text" x="4.99998" y="15.8" width="12" height="3.2" rx="0.4" fill="currentColor"/>
+<path class="ColorScheme-Text" d="M13 3L17 7.57143H13.25C13.1119 7.57143 13 7.4595 13 7.32143V3ZM14.4996 15.5726H7.50044C7.2308 15.5726 7 15.8284 7 16.144C7 16.4163 7.17703 16.656 7.41049 16.7059L7.50041 16.7156H14.4995C14.7692 16.7156 15 16.4598 15 16.1442C15 15.8378 14.7759 15.5726 14.4996 15.5726ZM14.4996 13.2869H7.50044C7.2308 13.2869 7 13.5427 7 13.8583C7 14.1306 7.17703 14.3703 7.41049 14.4202L7.50041 14.4299H14.4995C14.7692 14.4299 15 14.1741 15 13.8585C15 13.5521 14.7759 13.2869 14.4996 13.2869ZM14.4996 11.0011H7.50044C7.2308 11.0011 7 11.257 7 11.5726C7 11.8449 7.17703 12.0846 7.41049 12.1345L7.50041 12.1442H14.4995C14.7692 12.1442 15 11.8883 15 11.5728C15 11.2664 14.7759 11.0011 14.4996 11.0011ZM12 3V8.21429C12 8.49043 12.2239 8.71429 12.5 8.71429H17V16.7143C17 17.9767 16.1046 19 15 19H7C5.89543 19 5 17.9767 5 16.7143V5.28571C5 4.02335 5.89543 3 7 3H12Z" fill="currentColor"/>
 </g>
 </svg>
